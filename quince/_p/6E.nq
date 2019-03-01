@@ -1,0 +1,2 @@
+﻿<http://datadock.io/datadockdemo/canals-and-rivers/id/dataset/locks> <http://rdfs.org/ns/void#dataDump> <http://datadock.io/datadockdemo/canals-and-rivers/csv/locks/Locks_Public.csv> <http://datadock.io/datadockdemo/canals-and-rivers/id/dataset/locks/metadata>.
+<http://datadock.io/datadockdemo/canals-and-rivers/id/dataset/locks> <http://rdfs.org/ns/void#dataDump> <https://github.com/datadockdemo/canals-and-rivers/releases/download/locks_20190301_184152/locks_20190301_184152.nt.gz> <http://datadock.io/datadockdemo/canals-and-rivers/id/dataset/locks/metadata>.

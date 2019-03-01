@@ -1,0 +1,5 @@
+﻿<http://datadock.io/datadockdemo/canals-and-rivers/id/dataset/locks> <http://www.w3.org/ns/dcat#keyword> "canals-and-rivers"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadockdemo/canals-and-rivers/id/dataset/locks/metadata>.
+<http://datadock.io/datadockdemo/canals-and-rivers/id/dataset/locks> <http://www.w3.org/ns/dcat#keyword> "canals"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadockdemo/canals-and-rivers/id/dataset/locks/metadata>.
+<http://datadock.io/datadockdemo/canals-and-rivers/id/dataset/locks> <http://www.w3.org/ns/dcat#keyword> "environment"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadockdemo/canals-and-rivers/id/dataset/locks/metadata>.
+<http://datadock.io/datadockdemo/canals-and-rivers/id/dataset/locks> <http://www.w3.org/ns/dcat#keyword> "locks"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadockdemo/canals-and-rivers/id/dataset/locks/metadata>.
+<http://datadock.io/datadockdemo/canals-and-rivers/id/dataset/publisher> <http://xmlns.com/foaf/0.1/homepage> <https://datadock.io/> <http://datadock.io/datadockdemo/canals-and-rivers/metadata>.
